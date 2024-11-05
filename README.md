@@ -1,4 +1,4 @@
-# Web Developer responcive portfolio template. 
+# Web Developer portfolio template. 
 
 The page contains 4 sections: 
 --
