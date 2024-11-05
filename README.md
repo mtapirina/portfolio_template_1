@@ -21,7 +21,7 @@ The page contains 4 sections:
 
 ![portfolio](https://github.com/user-attachments/assets/1f166de7-8325-46e3-9f0a-1d60c6224bbf)
 
-##Contact Page
+## Contact Page
 
 ![contact](https://github.com/user-attachments/assets/4c9f5e19-6f42-450e-9327-8c120db6277f)
 
